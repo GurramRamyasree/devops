@@ -1,0 +1,2 @@
+var names=new Array();
+names[0]="Yaakov";
